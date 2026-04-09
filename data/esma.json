@@ -1,0 +1,154 @@
+[
+    {
+        "id":  "2025-06-esma-30th-extract",
+        "title":  "30th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Covers goodwill impairment, deferred tax assets, business combinations, principal vs. agent and control.",
+        "standard":  "Extract 30",
+        "publishedAt":  "2025-06-27",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "goodwill",
+                     "deferred tax",
+                     "business combinations",
+                     "principal vs agent",
+                     "control"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/2025-06/ESMA32-193237008-9182_30th_Extract_from_the_EECS_s_Database_of_Enforcement_0.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2024-05-esma-29th-extract",
+        "title":  "29th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Focuses on significant influence, related parties, interim disclosures, expected credit losses and fair value disclosures.",
+        "standard":  "Extract 29",
+        "publishedAt":  "2024-05-27",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "significant influence",
+                     "related parties",
+                     "ECL",
+                     "fair value",
+                     "APM"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/2024-05/ESMA32-193237008-8267_29th_Extract_from_the_EECS_s_Database_of_Enforcement.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2023-10-esma-28th-extract",
+        "title":  "28th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Includes earn-outs in business combinations, put-option liabilities, loss of control, principal vs. agent and lease disclosures.",
+        "standard":  "Extract 28",
+        "publishedAt":  "2023-10-09",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "business combinations",
+                     "loss of control",
+                     "principal vs agent",
+                     "lease disclosures"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/2023-10/ESMA32-193237008-3341_28th_Extract_from_the_EECS_s_Database_of_Enforcement.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2023-03-esma-27th-extract",
+        "title":  "27th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Covers sale and leaseback, segment aggregation, internally generated intangibles, climate-risk disclosures and SPAC warrants.",
+        "standard":  "Extract 27",
+        "publishedAt":  "2023-03-29",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "sale and leaseback",
+                     "segments",
+                     "intangibles",
+                     "climate",
+                     "SPAC"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/2023-03/ESMA32-63-1465_27th_Extract_from_the_EECS%27s_Database_of_Enforcement.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2022-05-esma-26th-extract",
+        "title":  "26th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Includes expected credit losses, inventory issues, revenue over time, significant financing components and impairment.",
+        "standard":  "Extract 26",
+        "publishedAt":  "2022-05-17",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "ECL",
+                     "inventory",
+                     "revenue",
+                     "impairment",
+                     "segments"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/library/esma32-63-1224_26th_extract_of_eecs_decisions.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2021-07-esma-25th-extract",
+        "title":  "25th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Focuses on expected credit losses, IFRS 16 first-time application, COVID-19 presentation issues and credit risk disclosures.",
+        "standard":  "Extract 25",
+        "publishedAt":  "2021-07-15",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "ECL",
+                     "IFRS 16",
+                     "COVID-19",
+                     "liabilities",
+                     "credit risk"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/library/esma32-63-1192_25th_extract_from_the_eecs_database_of_enforcement.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2020-04-esma-24th-extract",
+        "title":  "24th Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Includes performance obligations, liquidity risk, deferred tax on IFRS 9 transition, de-facto control and revenue issues.",
+        "standard":  "Extract 24",
+        "publishedAt":  "2020-04-02",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "performance obligations",
+                     "liquidity risk",
+                     "deferred tax",
+                     "control",
+                     "revenue"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/library/esma32-63-845_24th_extract_from_the_eecss_database_of_enforcement.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2019-07-esma-23th-extract",
+        "title":  "23rd Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Covers cash-flow presentation, financing liabilities disclosures, fair value disclosures and impairment indicators.",
+        "standard":  "Extract 23",
+        "publishedAt":  "2019-07-16",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "cash flows",
+                     "financing liabilities",
+                     "cash equivalents",
+                     "fair value",
+                     "impairment"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/library/esma32-63-717_23rd_extract_from_the_eecss_database_of_enforcement.pdf",
+        "sourceType":  "ESMA"
+    },
+    {
+        "id":  "2018-07-esma-22th-extract",
+        "title":  "22nd Extract from the EECS\u0027s Database of Enforcement",
+        "shortSummary":  "Includes held-for-sale classification, restricted cash, purchase price allocation, control and hyperinflation.",
+        "standard":  "Extract 22",
+        "publishedAt":  "2018-07-04",
+        "volume":  "ESMA / EECS",
+        "tags":  [
+                     "held for sale",
+                     "restricted cash",
+                     "PPA",
+                     "control",
+                     "hyperinflation"
+                 ],
+        "sourceUrl":  "https://www.esma.europa.eu/sites/default/files/library/esma32-63-427_22nd_extract_from_the_eecs_database_of_enforcement.pdf",
+        "sourceType":  "ESMA"
+    }
+]
